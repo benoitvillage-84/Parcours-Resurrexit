@@ -42,7 +42,7 @@ Et restons fidèles à la récitation du chapelet et à notre oraison, car la Vi
 
 ### Résolution générale
 
-Pendant tout ce temps pascal, nous avons donc eu à coeur de nous laisser pénétrer par cette lumière pour nous remplir de la force du Christ ressuscité. Faites que ces résolutions qui nous tiennent à cœur perdurent durant l’année.
+Pendant tout ce temps Pascal, nous avons donc eu à coeur de nous laisser pénétrer par cette lumière pour nous remplir de la force du Christ ressuscité. Faites que ces résolutions qui nous tiennent à cœur perdurent durant l’année.
 
 </section>
 
