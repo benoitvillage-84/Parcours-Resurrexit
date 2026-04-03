@@ -155,23 +155,117 @@ hr.ornement::after {
   border-top: 1px solid var(--gold-light);
 }
 
-.intro-page .piliers-list {
-  list-style: none;
-  margin-left: 0;
-  padding-left: 0;
+/* Lettrine */
+
+.intro-page .lettrine {
+  float: left;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 0.8;
+  color: var(--red);
+  margin-right: 0.15rem;
+  margin-top: 0.1rem;
 }
 
-.intro-page .piliers-list li {
-  padding-left: 1.5rem;
-  position: relative;
-  margin-bottom: 0.6rem;
+/* Citation encadree */
+
+.citation-encadree {
+  background: linear-gradient(135deg, var(--cream-dark), var(--cream));
+  border: 1px solid var(--gold-light);
+  border-left: 4px solid var(--gold);
+  border-radius: 6px;
+  padding: 1.5rem 2rem;
+  margin: 2rem 0;
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-size: 1.1rem;
+  line-height: 1.7;
+  color: var(--text-light);
 }
 
-.intro-page .piliers-list li::before {
-  content: "\2720";
-  position: absolute;
-  left: 0;
+.citation-encadree cite {
+  display: block;
+  text-align: right;
+  font-size: 0.95rem;
+  font-style: normal;
+  font-weight: 600;
+  color: var(--gold-dark);
+  margin-top: 0.75rem;
+}
+
+.citation-encadree p {
+  margin-bottom: 0;
+}
+
+/* Piliers en cartes */
+
+.piliers-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25rem;
+  margin: 1.5rem 0 2.5rem;
+}
+
+.pilier-card {
+  background: var(--white);
+  border: 1px solid var(--cream-dark);
+  border-radius: 8px;
+  padding: 1.5rem 1rem;
+  text-align: center;
+  transition: border-color 0.2s;
+}
+
+.pilier-card:hover {
+  border-color: var(--gold-light);
+}
+
+.pilier-card .pilier-icon {
+  font-size: 1.8rem;
   color: var(--gold);
+  margin-bottom: 0.75rem;
+}
+
+.pilier-card h4 {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.2rem;
+  color: var(--red);
+  margin-bottom: 0.5rem;
+}
+
+.pilier-card p {
+  font-size: 0.95rem;
+  color: var(--text-light);
+  margin-bottom: 0;
+  line-height: 1.5;
+}
+
+/* Cri final */
+
+.resurrexit-cri {
+  text-align: center;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--red);
+  margin: 1.5rem 0;
+  letter-spacing: 0.05em;
+}
+
+/* Espacement intro */
+
+.intro-page p {
+  margin-bottom: 1.25rem;
+}
+
+@media (max-width: 600px) {
+  .piliers-cards {
+    grid-template-columns: 1fr;
+  }
+
+  .intro-page .lettrine {
+    font-size: 3rem;
+  }
 }
 
 /* ── Page Jour ── */
