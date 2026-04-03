@@ -431,6 +431,12 @@ hr.ornement::after {
   pointer-events: none;
 }
 
+.jour-list .locked-icon-index {
+  color: var(--gold-light);
+  font-size: 0.75rem;
+  margin-right: 0.5rem;
+}
+
 /* ── Verrouillage jour ── */
 
 .jour-locked {

@@ -45,6 +45,9 @@ document.addEventListener('DOMContentLoaded', function() {
       d.setDate(d.getDate() + n - 1);
       if (now < d) {
         link.classList.add('locked');
+        var lockIcon = document.createElement('i');
+        lockIcon.className = 'fa-solid fa-lock locked-icon-index';
+        link.insertBefore(lockIcon, link.firstChild);
         link.addEventListener('click', function(e) { e.preventDefault(); });
       }
     }
