@@ -1,7 +1,7 @@
 title: Resurrexit
 description: "Un parcours pour vivre avec le Christ Ressuscité pendant le Temps pascal"
-baseurl: ""
-url: "https://www.parcours-resurrexit.com"
+baseurl: "/Parcours-Resurrexit"
+url: "https://benoitvillage-84.github.io"
 
 # Date de début du parcours (Dimanche de Pâques)
 parcours_start: "2025-04-05"
