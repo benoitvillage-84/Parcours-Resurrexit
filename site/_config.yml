@@ -1,0 +1,15 @@
+title: Resurrexit
+description: "Un parcours pour vivre avec le Christ Ressuscité pendant le Temps pascal"
+baseurl: ""
+url: "https://www.parcours-resurrexit.com"
+
+# Date de début du parcours (Dimanche de Pâques)
+parcours_start: "2025-04-05"
+
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

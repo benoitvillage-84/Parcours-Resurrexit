@@ -1,0 +1,15 @@
+{% if include.url and include.url != "" %}
+<div class="audio-player">
+  <div class="audio-label">
+    <span class="audio-icon">&#127911;</span> Version audio disponible
+  </div>
+  <iframe
+    width="100%"
+    height="166"
+    scrolling="no"
+    frameborder="no"
+    allow="autoplay"
+    src="https://w.soundcloud.com/player/?url={{ include.url | url_encode }}&color=%23b8860b&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false">
+  </iframe>
+</div>
+{% endif %}

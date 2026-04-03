@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<article class="jour-page">
+
+  {% if page.semaine_resume %}
+  <section class="semaine-resume">
+    <h2>{{ page.semaine_titre }}</h2>
+    <p>{{ page.semaine_resume }}</p>
+    {% if page.semaine_priere %}
+    <p class="semaine-priere-label">Pri&egrave;re de la semaine : <em>{{ page.semaine_priere }}</em></p>
+    {% endif %}
+  </section>
+  <hr class="ornement">
+  {% endif %}
+
+  <header class="jour-header">
+    <span class="jour-number">Jour {{ page.jour }}</span>
+    <h1>{{ page.title }}</h1>
+    <time class="jour-date">{{ page.date_liturgique }}</time>
+  </header>
+
+  {{ content }}
+
+  <nav class="jour-nav">
+    {% if page.prev_jour %}
+    <a href="{{ page.prev_jour | relative_url }}" class="nav-prev">&larr; Jour pr&eacute;c&eacute;dent</a>
+    {% else %}
+    <a href="{{ '/introduction' | relative_url }}" class="nav-prev">&larr; Introduction</a>
+    {% endif %}
+
+    <a href="{{ '/' | relative_url }}" class="nav-home">Accueil</a>
+
+    {% if page.next_jour %}
+    <a href="{{ page.next_jour | relative_url }}" class="nav-next">Jour suivant &rarr;</a>
+    {% endif %}
+  </nav>
+
+</article>

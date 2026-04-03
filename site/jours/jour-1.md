@@ -1,0 +1,65 @@
+---
+layout: jour
+title: "La R\u00E9surrection de Notre Seigneur J\u00E9sus-Christ"
+jour: 1
+date_liturgique: "Dimanche 5 Avril"
+date_debut: "2025-04-05"
+audio_contemplation: ""
+prev_jour: ""
+next_jour: "/jours/jour-2"
+semaine_titre: "Semaine 1 — La R\u00E9surrection et les Apparitions"
+semaine_resume: "Cette premi\u00E8re semaine nous fait entrer dans le myst\u00E8re pascal par les r\u00E9cits \u00E9vang\u00E9liques des apparitions du Christ ressuscit\u00E9 : le tombeau vide, l'apparition \u00E0 Marie-Madeleine, la p\u00EAche miraculeuse, les disciples d'Emma\u00FCs. Les textes de Dom Marmion et les hom\u00E9lies de saint Gr\u00E9goire le Grand nous guident dans la contemplation de ce myst\u00E8re fondateur."
+semaine_priere: "Acte d'Amour du saint Cur\u00E9 d'Ars"
+---
+
+<section class="section-bible">
+
+### Texte de l'&Eacute;criture Sainte &mdash; &Eacute;vangile selon St Marc 16, 1-7
+
+Le sabbat termin&eacute;, Marie Madeleine, Marie, m&egrave;re de Jacques, et Salom&eacute; achet&egrave;rent des parfums pour aller embaumer le corps de J&eacute;sus. De grand matin, le premier jour de la semaine, elles se rendent au tombeau d&egrave;s le lever du soleil. Elles se disaient entre elles : &laquo;&nbsp;Qui nous roulera la pierre pour d&eacute;gager l'entr&eacute;e du tombeau ?&nbsp;&raquo; Levant les yeux, elles s'aper&ccedil;oivent qu'on a roul&eacute; la pierre, qui &eacute;tait pourtant tr&egrave;s grande. En entrant dans le tombeau, elles virent, assis &agrave; droite, un jeune homme v&ecirc;tu de blanc. Elles furent saisies de frayeur. Mais il leur dit : &laquo;&nbsp;Ne soyez pas effray&eacute;es ! Vous cherchez J&eacute;sus de Nazareth, le Crucifi&eacute; ? Il est ressuscit&eacute; : il n'est pas ici. Voici l'endroit o&ugrave; on l'avait d&eacute;pos&eacute;. Et maintenant, allez dire &agrave; ses disciples et &agrave; Pierre : "Il vous pr&eacute;c&egrave;de en Galil&eacute;e. L&agrave; vous le verrez, comme il vous l'a dit."&nbsp;&raquo;
+
+</section>
+
+<section class="section-contemplation">
+
+### Temps de contemplation &mdash; &laquo;&nbsp;Le Christ dans ses myst&egrave;res&nbsp;&raquo; Dom Marmion
+
+{% include soundcloud.html url=page.audio_contemplation %}
+
+Tout le myst&egrave;re du Christ durant les jours de sa passion peut se r&eacute;sumer dans cette parole de St Paul : &laquo;&nbsp;Il s'est humili&eacute;, s'&eacute;tant fait ob&eacute;issant jusqu'&agrave; la mort&nbsp;&raquo;... Mais les ab&icirc;mes d'ignominies et de souffrances dans lesquelles Notre Seigneur a bien voulu descendre &eacute;taient &eacute;galement des ab&icirc;mes d'amour ; et cet amour nous a m&eacute;rit&eacute; la mis&eacute;ricorde de son P&egrave;re, toutes les gr&acirc;ces de salut et de sanctification...
+
+Il y a une parole de St Paul qui r&eacute;capitule pour le Christ le myst&egrave;re de sa R&eacute;surrection : &laquo;&nbsp;*Vivit Deo* : Il vit pour Dieu&nbsp;&raquo;. Contemplons ce myst&egrave;re de J&eacute;sus, sortant vivant et glorieux du s&eacute;pulcre... la R&eacute;surrection est le myst&egrave;re du triomphe de la vie sur la mort, du c&eacute;leste sur le terrestre, du divin sur l'humain et elle r&eacute;alise &eacute;minemment l'id&eacute;al de toute saintet&eacute;.
+
+Le Christ J&eacute;sus &eacute;tait Dieu et homme... Il a eu besoin du lait de sa m&egrave;re pour sustenter sa vie ; plus tard, il a &eacute;prouv&eacute; la fatigue... le sommeil... la faim ; la soif ; la souffrance. Il a aussi &eacute;prouv&eacute; des afflictions int&eacute;rieures : au jardin des oliviers, la peur, l'ennui, l'angoisse, la tristesse... Ainsi a-t-il partag&eacute; nos faiblesses, nos infirmit&eacute;s, nos douleurs...
+
+Mais apr&egrave;s la R&eacute;surrection, toutes ces infirmit&eacute;s ont disparu... Notre Seigneur n'&eacute;prouve plus rien de tout cela : c'est la s&eacute;paration compl&egrave;te de tout ce qui est faiblesse. Son corps n'est-il donc plus r&eacute;el ? Certainement c'est bien le corps qu'il a re&ccedil;u de la Vierge Marie et qui a souffert la mort sur la croix. Voyez comme le Christ tient lui-m&ecirc;me &agrave; le montrer. Le soir de sa R&eacute;surrection, ... J&eacute;sus fait lui-m&ecirc;me constater &agrave; ses ap&ocirc;tres la r&eacute;alit&eacute; de son corps ressuscit&eacute; ; mais c'est un corps soustrait d&eacute;sormais aux infirmit&eacute;s de la terre ;... J&eacute;sus sort du tombeau taill&eacute; dans le roc et dont l'entr&eacute;e est ferm&eacute;e par une lourde pierre ; il se pr&eacute;sente au milieu de ses disciples &laquo;&nbsp;alors que toutes les portes&nbsp;&raquo; du lieu o&ugrave; ils &eacute;taient rassembl&eacute;s &laquo;&nbsp;&eacute;taient ferm&eacute;es&nbsp;&raquo;...
+
+Ce corps ressuscit&eacute; est d&eacute;sormais immortel ; il est mort une fois ;... mais &agrave; pr&eacute;sent, dit St Paul, &laquo;&nbsp;le Christ ressuscit&eacute; ne meurt plus, la mort n'a plus sur lui d'empire&nbsp;&raquo; : le corps de J&eacute;sus ressuscit&eacute; n'est plus soumis &agrave; la mort ni aux conditions du temps : il est lib&eacute;r&eacute; de toutes les servitudes, de toutes les infirmit&eacute;s qu'il avait prises dans l'Incarnation ; il est impassible, spirituel, vivant dans une souveraine ind&eacute;pendance.
+
+C'est en cela qu'est repr&eacute;sent&eacute; dans le Christ le premier &eacute;l&eacute;ment de la saintet&eacute; : l'&eacute;loignement de tout ce qui est mort, de tout ce qui est terrestre, de tout ce qui est cr&eacute;ature, l'affranchissement d'avec toute faiblesse, d'avec toute infirmit&eacute;, d'avec toute passibilit&eacute;. Au jour de sa R&eacute;surrection, le Christ J&eacute;sus a laiss&eacute; dans le tombeau les linceuls, qui sont le symbole de nos infirmit&eacute;s, de nos faiblesses, de nos imperfections ; il sort triomphant du s&eacute;pulcre ; sa libert&eacute; est enti&egrave;re, il est anim&eacute; d'une vie intense, parfaite, qui fait vibrer toutes les fibres de son &ecirc;tre. En Lui tout ce qui est mortel est absorb&eacute; par la Vie.
+
+</section>
+
+<section class="section-reflexions">
+
+### R&eacute;flexions pour ma vie
+
+Est-ce que je crois que le Christ est r&eacute;ellement sorti, vivant, du tombeau ? Suis-je conscient de l'Amour infini du P&egrave;re pour ses enfants que nous sommes, de l'Amour infini de J&eacute;sus qui s'est fait homme et qui a souffert pour nous sauver de la mort et du p&eacute;ch&eacute; ? Est-ce que je pense &agrave; Le louer, &agrave; Le remercier pour cet amour infini ?
+
+</section>
+
+<section class="section-resolution">
+
+### R&eacute;solution du jour
+
+Je me fixe un temps de pri&egrave;re et d'adoration pour contempler la profondeur de cet Amour divin ! J'y serai fid&egrave;le toute cette semaine.
+
+</section>
+
+<section class="section-priere">
+
+### Pri&egrave;re : Acte d'Amour du saint Cur&eacute; d'Ars (XIX<sup>e</sup> si&egrave;cle)
+
+Je vous aime, &ocirc; mon Dieu, et mon seul d&eacute;sir est de vous aimer jusqu'au dernier soupir de ma vie. Je vous aime, &ocirc; mon Dieu infiniment aimable, et j'aime mieux mourir en vous aimant que de vivre un seul instant sans vous aimer. Je vous aime, &ocirc; mon Dieu, et je ne d&eacute;sire le Ciel que pour avoir le bonheur de vous aimer parfaitement. Je vous aime, &ocirc; mon Dieu, et je n'appr&eacute;hende l'enfer que parce qu'on n'y aura jamais la douce consolation de vous aimer. &Ocirc; mon Dieu, si ma langue ne peut dire &agrave; tout moment que je vous aime, du moins je veux que mon c&oelig;ur vous le r&eacute;p&egrave;te autant de fois que je respire. Ah ! Faites-moi la gr&acirc;ce de souffrir en vous aimant, de vous aimer en souffrant, et d'expirer un jour en vous aimant et en sentant que je vous aime. Et plus j'approche de ma fin, plus je vous conjure d'accro&icirc;tre mon amour et de le perfectionner. Amen.
+
+</section>
