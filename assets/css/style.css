@@ -315,9 +315,25 @@ hr.ornement::after {
 .index-page .index-intro {
   text-align: center;
   font-family: 'Cormorant Garamond', serif;
-  font-size: 1.15rem;
-  color: var(--text-light);
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: var(--red);
   margin-bottom: 2.5rem;
+  padding: 2rem 1rem;
+  line-height: 1.4;
+}
+
+.index-page .index-intro br + br {
+  display: none;
+}
+
+.index-page .index-intro .index-subtitle {
+  display: block;
+  font-size: 1.15rem;
+  font-weight: 400;
+  font-style: italic;
+  color: var(--text-light);
+  margin-top: 0.5rem;
 }
 
 .semaine-group {
