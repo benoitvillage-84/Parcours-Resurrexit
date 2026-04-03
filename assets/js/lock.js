@@ -27,8 +27,7 @@ document.addEventListener('DOMContentLoaded', function() {
         if (locked) {
           locked.style.display = 'block';
           if (lockedDateEl) {
-            var options = { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' };
-            lockedDateEl.textContent = jourDate.toLocaleDateString('fr-FR', options);
+            lockedDateEl.textContent = article.dataset.dateLiturgique || '';
           }
         }
       }
