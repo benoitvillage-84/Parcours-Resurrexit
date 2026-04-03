@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<article class="jour-page">
+<article class="jour-page" data-jour="{{ page.jour }}" data-parcours-start="{{ site.parcours_start }}">
 
   {% if page.semaine_resume %}
   <section class="semaine-resume">
@@ -21,7 +21,16 @@ layout: default
     <time class="jour-date">{{ page.date_liturgique }}</time>
   </header>
 
-  {{ content }}
+  <div class="jour-locked" style="display: none;">
+    <div class="locked-icon"><i class="fa-solid fa-lock"></i></div>
+    <h2>Ce jour n'est pas encore disponible</h2>
+    <p class="locked-message">Ce contenu sera accessible le <strong class="locked-date"></strong>.</p>
+    <p class="locked-sub">Patience, le temps pascal se vit jour apr&egrave;s jour&hellip;</p>
+  </div>
+
+  <div class="jour-content">
+    {{ content }}
+  </div>
 
   <nav class="jour-nav">
     {% if page.prev_jour %}

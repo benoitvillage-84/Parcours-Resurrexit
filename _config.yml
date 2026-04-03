@@ -4,7 +4,7 @@ baseurl: ""
 url: "https://go.parcours-resurrexit.com"
 
 # Date de début du parcours (Dimanche de Pâques)
-parcours_start: "2025-04-05"
+parcours_start: "2026-04-03"
 
 markdown: kramdown
 permalink: pretty

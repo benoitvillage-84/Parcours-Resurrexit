@@ -431,6 +431,39 @@ hr.ornement::after {
   pointer-events: none;
 }
 
+/* ── Verrouillage jour ── */
+
+.jour-locked {
+  text-align: center;
+  padding: 4rem 2rem;
+}
+
+.jour-locked .locked-icon {
+  font-size: 3rem;
+  color: var(--gold-light);
+  margin-bottom: 1.5rem;
+}
+
+.jour-locked h2 {
+  font-family: 'Cormorant Garamond', serif;
+  color: var(--red);
+  font-size: 1.6rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.jour-locked .locked-message {
+  font-size: 1.1rem;
+  color: var(--text);
+}
+
+.jour-locked .locked-sub {
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  color: var(--text-light);
+  margin-top: 1rem;
+}
+
 /* ── Footer ── */
 
 .site-footer {
