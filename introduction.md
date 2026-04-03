@@ -1,16 +1,15 @@
 ---
 layout: default
 title: Introduction
+page_class: intro-page
 ---
-
-<div class="intro-page" markdown="1">
 
 # RESURREXIT !
 
 <p class="intro-subtitle">Un parcours pour vivre avec le Christ ressuscit&eacute; pendant le Temps pascal<br>
 Du dimanche de P&acirc;ques &agrave; la Pentec&ocirc;te &mdash; 50 jours de contemplation et de formation</p>
 
-<img src="{{ '/assets/images/image_christ_ressuscite_transparent.png' | relative_url }}" alt="Le Christ Ressuscité" class="intro-image">
+![Le Christ Ressuscit&eacute;](/assets/images/image_christ_ressuscite_transparent.png){: .intro-image}
 
 Peut-&ecirc;tre avez-vous d&eacute;j&agrave; fait l'exp&eacute;rience douloureuse d'un bon car&ecirc;me, suivi d'un temps pascal d&eacute;sastreux... On a alors franchement l'impression d'avoir perdu tout ce que nous avions acquis si difficilement durant cette sainte quarantaine ! En effet, il ne faudrait pas que notre car&ecirc;me et notre temps pascal soient un peu comme le ramadan : rien le jour, tout la nuit... rien pendant le car&ecirc;me, tout pendant le temps Pascal !
 
@@ -64,6 +63,4 @@ P&egrave;re Fran&ccedil;ois de Sales OSB<br>
 
 <div style="text-align: center; margin-top: 2rem;">
 <a href="{{ '/jours/jour-1' | relative_url }}" style="display: inline-block; background: var(--gold); color: var(--white); padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-family: 'Cormorant Garamond', serif; font-weight: 700; font-size: 1.1rem;">Commencer le parcours &rarr;</a>
-</div>
-
 </div>
