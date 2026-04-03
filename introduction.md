@@ -11,8 +11,7 @@ Du dimanche de P&acirc;ques &agrave; la Pentec&ocirc;te &mdash; 50 jours de cont
 
 ![Le Christ Ressuscit&eacute;](/assets/images/image_christ_ressuscite_transparent.png){: .intro-image}
 
-<span class="lettrine">P</span>eut-&ecirc;tre avez-vous d&eacute;j&agrave; fait l'exp&eacute;rience douloureuse d'un bon car&ecirc;me, suivi d'un temps pascal d&eacute;sastreux... On a alors franchement l'impression d'avoir perdu tout ce que nous avions acquis si difficilement durant cette sainte quarantaine&nbsp;! En effet, il ne faudrait pas que notre car&ecirc;me et notre temps pascal soient un peu comme le ramadan&nbsp;: rien le jour, tout la nuit... rien pendant le car&ecirc;me, tout pendant le temps Pascal&nbsp;!
-
+<span class="lettrine">P</span>eut-&ecirc;tre avez-vous d&eacute;j&agrave; fait l'exp&eacute;rience douloureuse d'un bon car&ecirc;me, suivi d'un temps pascal d&eacute;sastreux... On a alors franchement l'impression d'avoir perdu tout ce que nous avions acquis si difficilement durant cette sainte quarantaine&nbsp;!
 Cette chute, parfois d&eacute;sastreuse, est d'autant plus regrettable que le temps pascal devrait &ecirc;tre le couronnement et l'aboutissement du car&ecirc;me. **Comment faire donc pour vivre avec le Christ ressuscit&eacute; pendant tout le temps pascal&nbsp;?**
 
 Depuis quelques ann&eacute;es des parcours divers sont propos&eacute;s aux fid&egrave;les pour se sanctifier au mieux durant le car&ecirc;me. Il y a eu Exodus 90 puis toutes les communaut&eacute;s traditionnelles se sont mises &agrave; sortir leur propre parcours, le plus connu &eacute;tant Virtus&nbsp;! Ces parcours ont rencontr&eacute; un grand succ&egrave;s et ont permis &agrave; beaucoup de faire enfin un bon car&ecirc;me, et surtout de tenir dans la dur&eacute;e jusqu'&agrave; P&acirc;ques&nbsp;! Mais la grande difficult&eacute; reste l'apr&egrave;s car&ecirc;me... autrement dit comment vivre Saintement durant le temps Pascal&nbsp;?
