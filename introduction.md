@@ -3,7 +3,7 @@ layout: default
 title: Introduction
 ---
 
-<div class="intro-page">
+<div class="intro-page" markdown="1">
 
 # RESURREXIT !
 
@@ -34,23 +34,19 @@ Dans ce parcours pascal, nous avons choisi trois piliers propres au temps pascal
 <li><strong>L'amour</strong> en r&eacute;pondant &agrave; l'amour du Christ pour nous par une pri&egrave;re fervente</li>
 </ul>
 
-<h3>Nos auteurs</h3>
+### Nos auteurs
 
-<ul>
-<li><strong>Saint Gr&eacute;goire le Grand</strong> : extraits de ses hom&eacute;lies</li>
-<li><strong>Saint Colomba Marmion</strong> : extraits du <em>Christ dans ses myst&egrave;res</em> ou <em>Le Christ, vie de l'&acirc;me</em></li>
-<li><strong>P&egrave;re Sineux</strong> : extraits de <em>L'initiation &agrave; la th&eacute;ologie de St Thomas</em></li>
-</ul>
+- **Saint Gr&eacute;goire le Grand** : extraits de ses hom&eacute;lies
+- **Saint Colomba Marmion** : extraits du *Christ dans ses myst&egrave;res* ou *Le Christ, vie de l'&acirc;me*
+- **P&egrave;re Sineux** : extraits de *L'initiation &agrave; la th&eacute;ologie de St Thomas*
 
-<h3>Chaque jour, vous trouverez</h3>
+### Chaque jour, vous trouverez
 
-<ul>
-<li>Un texte biblique (&Eacute;vangile, &Eacute;p&icirc;tres, Psaumes, Actes des Ap&ocirc;tres)</li>
-<li>Un texte pour entrer dans la contemplation</li>
-<li>Des r&eacute;flexions pour la vie quotidienne</li>
-<li>Une r&eacute;solution du jour</li>
-<li>La pri&egrave;re de la semaine</li>
-</ul>
+- Un texte biblique (&Eacute;vangile, &Eacute;p&icirc;tres, Psaumes, Actes des Ap&ocirc;tres)
+- Un texte pour entrer dans la contemplation
+- Des r&eacute;flexions pour la vie quotidienne
+- Une r&eacute;solution du jour
+- La pri&egrave;re de la semaine
 
 <hr class="ornement">
 
