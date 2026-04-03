@@ -361,6 +361,14 @@ hr.ornement::after {
   margin-right: 0.5rem;
 }
 
+.jour-list .jour-date-index {
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-size: 0.9rem;
+  color: var(--text-light);
+  margin-right: 0.4rem;
+}
+
 .jour-list .locked {
   color: var(--text-light);
   opacity: 0.5;
