@@ -1,7 +1,7 @@
 {% if include.url and include.url != "" %}
 <div class="audio-player">
   <div class="audio-label">
-    <span class="audio-icon">&#127911;</span> Version audio disponible
+    <i class="fa-solid fa-headphones"></i> Version audio disponible
   </div>
   <iframe
     width="100%"
@@ -9,7 +9,7 @@
     scrolling="no"
     frameborder="no"
     allow="autoplay"
-    src="https://w.soundcloud.com/player/?url={{ include.url | url_encode }}&color=%23b8860b&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false">
+    src="https://w.soundcloud.com/player/?url={{ include.url | url_encode }}&color=%23b8860b&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false">
   </iframe>
 </div>
 {% endif %}

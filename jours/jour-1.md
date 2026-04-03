@@ -4,7 +4,7 @@ title: "La R\u00E9surrection de Notre Seigneur J\u00E9sus-Christ"
 jour: 1
 date_liturgique: "Dimanche 5 Avril"
 date_debut: "2025-04-05"
-audio_contemplation: ""
+audio_contemplation: "https://api.soundcloud.com/tracks/2296130132"
 prev_jour: ""
 next_jour: "/jours/jour-2"
 semaine_titre: "Semaine 1 — La R\u00E9surrection et les Apparitions"
