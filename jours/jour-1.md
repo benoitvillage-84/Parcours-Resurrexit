@@ -12,7 +12,7 @@ semaine_resume: "Cette premi\u00E8re semaine nous fait entrer dans le myst\u00E8
 semaine_priere: "Acte d'Amour du saint Cur\u00E9 d'Ars"
 ---
 
-<section class="section-bible">
+<section class="section-bible" markdown="1">
 
 ### Texte de l'&Eacute;criture Sainte &mdash; &Eacute;vangile selon St Marc 16, 1-7
 
@@ -20,7 +20,7 @@ Le sabbat termin&eacute;, Marie Madeleine, Marie, m&egrave;re de Jacques, et Sal
 
 </section>
 
-<section class="section-contemplation">
+<section class="section-contemplation" markdown="1">
 
 ### Temps de contemplation &mdash; &laquo;&nbsp;Le Christ dans ses myst&egrave;res&nbsp;&raquo; Dom Marmion
 
@@ -40,7 +40,7 @@ C'est en cela qu'est repr&eacute;sent&eacute; dans le Christ le premier &eacute;
 
 </section>
 
-<section class="section-reflexions">
+<section class="section-reflexions" markdown="1">
 
 ### R&eacute;flexions pour ma vie
 
@@ -48,7 +48,7 @@ Est-ce que je crois que le Christ est r&eacute;ellement sorti, vivant, du tombea
 
 </section>
 
-<section class="section-resolution">
+<section class="section-resolution" markdown="1">
 
 ### R&eacute;solution du jour
 
@@ -56,7 +56,7 @@ Je me fixe un temps de pri&egrave;re et d'adoration pour contempler la profondeu
 
 </section>
 
-<section class="section-priere">
+<section class="section-priere" markdown="1">
 
 ### Pri&egrave;re : Acte d'Amour du saint Cur&eacute; d'Ars (XIX<sup>e</sup> si&egrave;cle)
 
