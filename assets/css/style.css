@@ -218,11 +218,11 @@ hr.ornement::after {
   border-top: 1px solid var(--cream-dark);
 }
 
-.section-bible h3::before { content: "\1F4D6  "; }
-.section-contemplation h3::before { content: "\2728  "; }
-.section-reflexions h3::before { content: "\1F4AD  "; }
-.section-resolution h3::before { content: "\1F3AF  "; }
-.section-priere h3::before { content: "\1F54A  "; }
+.section-bible h3::before { content: "📖  "; }
+.section-contemplation h3::before { content: "✨  "; }
+.section-reflexions h3::before { content: "💭  "; }
+.section-resolution h3::before { content: "🎯  "; }
+.section-priere h3::before { content: "🕊  "; }
 
 /* ── Audio player (SoundCloud) ── */
 
