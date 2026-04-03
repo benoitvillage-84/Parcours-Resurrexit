@@ -310,6 +310,25 @@ hr.ornement::after {
   font-size: 0.9rem;
 }
 
+/* ── Bouton doré réutilisable ── */
+
+.btn-gold {
+  display: inline-block;
+  background: var(--gold);
+  color: var(--white);
+  padding: 0.75rem 2rem;
+  border-radius: 4px;
+  text-decoration: none;
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 700;
+  font-size: 1.1rem;
+  transition: background 0.2s;
+}
+
+.btn-gold:hover {
+  background: var(--gold-dark);
+}
+
 /* ── Index / Accueil ── */
 
 .index-page .index-intro {
@@ -325,6 +344,18 @@ hr.ornement::after {
 
 .index-page .index-intro br + br {
   display: none;
+}
+
+.index-page .index-extrait {
+  max-width: 650px;
+  margin: 0 auto 2.5rem;
+  padding: 1.5rem 2rem;
+  background: var(--cream-dark);
+  border-left: 3px solid var(--gold);
+  border-radius: 4px;
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: var(--text);
 }
 
 .index-page .index-intro .index-subtitle {
