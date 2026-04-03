@@ -218,11 +218,22 @@ hr.ornement::after {
   border-top: 1px solid var(--cream-dark);
 }
 
-.section-bible h3::before { content: "📖  "; }
-.section-contemplation h3::before { content: "✨  "; }
-.section-reflexions h3::before { content: "💭  "; }
-.section-resolution h3::before { content: "🎯  "; }
-.section-priere h3::before { content: "🕊  "; }
+.section-bible h3::before,
+.section-contemplation h3::before,
+.section-reflexions h3::before,
+.section-resolution h3::before,
+.section-priere h3::before {
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  margin-right: 0.5rem;
+  color: var(--gold);
+}
+
+.section-bible h3::before { content: "\f02d"; }
+.section-contemplation h3::before { content: "\f185"; }
+.section-reflexions h3::before { content: "\f5dc"; }
+.section-resolution h3::before { content: "\f140"; }
+.section-priere h3::before { content: "\f4ba"; }
 
 /* ── Audio player (SoundCloud) ── */
 
