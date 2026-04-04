@@ -470,6 +470,39 @@ hr.ornement::after {
   margin-top: 0.5rem;
 }
 
+/* ── Encart inscription ── */
+
+.index-inscription {
+  text-align: center;
+  background: linear-gradient(135deg, var(--cream-dark), var(--cream));
+  border: 2px solid var(--gold-light);
+  border-radius: 8px;
+  padding: 2rem 2rem 2.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.index-inscription .inscription-icon {
+  font-size: 2rem;
+  color: var(--gold);
+  margin-bottom: 1rem;
+}
+
+.index-inscription h2 {
+  font-family: 'Cormorant Garamond', serif;
+  color: var(--red);
+  font-size: 1.5rem;
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+}
+
+.index-inscription p {
+  font-size: 1rem;
+  color: var(--text-light);
+  max-width: 500px;
+  margin: 0 auto 1.5rem;
+  line-height: 1.6;
+}
+
 .semaine-group {
   margin-bottom: 2rem;
 }
