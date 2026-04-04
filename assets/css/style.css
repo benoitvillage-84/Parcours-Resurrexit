@@ -504,6 +504,51 @@ hr.ornement::after {
   margin-right: 0.4rem;
 }
 
+/* ── Programme (index) ── */
+
+.index-programme {
+  margin-bottom: 2.5rem;
+}
+
+.index-programme h2 {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.5rem;
+  color: var(--red);
+  margin-bottom: 0.75rem;
+}
+
+.index-programme > p {
+  font-size: 1.05rem;
+  line-height: 1.7;
+  margin-bottom: 1.5rem;
+}
+
+.programme-piliers {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.programme-pilier {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+}
+
+.programme-pilier > i {
+  color: var(--gold);
+  font-size: 1.1rem;
+  margin-top: 0.2rem;
+  min-width: 1.25rem;
+  text-align: center;
+}
+
+.programme-pilier span {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: var(--text);
+}
+
 .semaine-group {
   margin-bottom: 2rem;
 }
