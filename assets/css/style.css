@@ -470,37 +470,38 @@ hr.ornement::after {
   margin-top: 0.5rem;
 }
 
-/* ── Encart inscription ── */
+/* ── Lien suite + inscription dans l'extrait ── */
 
-.index-inscription {
-  text-align: center;
-  background: linear-gradient(135deg, var(--cream-dark), var(--cream));
-  border: 2px solid var(--gold-light);
-  border-radius: 8px;
-  padding: 2rem 2rem 2.5rem;
-  margin-bottom: 2.5rem;
-}
-
-.index-inscription .inscription-icon {
-  font-size: 2rem;
-  color: var(--gold);
-  margin-bottom: 1rem;
-}
-
-.index-inscription h2 {
+.index-extrait .lien-suite {
+  display: block;
+  text-align: right;
   font-family: 'Cormorant Garamond', serif;
-  color: var(--red);
-  font-size: 1.5rem;
-  margin-top: 0;
-  margin-bottom: 0.75rem;
+  font-size: 0.95rem;
+  color: var(--gold-dark);
+  text-decoration: none;
+  margin-top: 0.5rem;
 }
 
-.index-inscription p {
+.index-extrait .lien-suite:hover {
+  color: var(--gold);
+}
+
+.index-extrait .extrait-sep {
+  border: none;
+  border-top: 1px solid var(--gold-light);
+  margin: 1.5rem 0;
+}
+
+.index-extrait .extrait-inscription {
+  text-align: center;
   font-size: 1rem;
   color: var(--text-light);
-  max-width: 500px;
-  margin: 0 auto 1.5rem;
-  line-height: 1.6;
+  margin-bottom: 1.25rem;
+}
+
+.index-extrait .extrait-inscription i {
+  color: var(--gold);
+  margin-right: 0.4rem;
 }
 
 .semaine-group {
