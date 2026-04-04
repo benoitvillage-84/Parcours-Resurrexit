@@ -1,4 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
+  // Mode demo: ?demo dans l'URL desactive le verrouillage
+  if (window.location.search.indexOf('demo') !== -1) return;
+
   // Date actuelle (sans heure)
   var now = new Date();
   now.setHours(0, 0, 0, 0);
