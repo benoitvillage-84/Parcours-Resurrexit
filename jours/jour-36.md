@@ -7,7 +7,7 @@ date_debut: ""
 audio_contemplation: ""
 prev_jour: "/jours/jour-35"
 next_jour: "/jours/jour-37"
-semaine_titre: "SEMAINE 6 : La Vierge Marie"
+semaine_titre: "SEMAINE 6 : La Mère du Verbe incarné (suite) et l’Ascension"
 semaine_resume: "En ce mois de mai, mois de Marie, Dom Marmion nous fait contempler la Mère du Verbe incarné : l'Annonciation, les grâces de la Vierge, son association aux mystères de Jésus, la dévotion mariale et sa fécondité."
 semaine_priere: "Prière à Notre-Dame de Guadalupe"
 ---

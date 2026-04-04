@@ -7,7 +7,7 @@ date_debut: ""
 audio_contemplation: ""
 prev_jour: "/jours/jour-14"
 next_jour: "/jours/jour-16"
-semaine_titre: "SEMAINE 3 : Vices opposés à la Foi et Espérance"
+semaine_titre: "SEMAINE 3 : La Foi (suite) et l’Espérance"
 semaine_resume: "Cette semaine aborde les vices opposés à la Foi (infidélité, apostasie) et les préceptes de la Foi, avant d'entrer dans la vertu d'Espérance : sa nature, son objet, son extension. Le Père Sineux continue de nous guider."
 semaine_priere: "Prière de saint Claude La Colombière"
 ---

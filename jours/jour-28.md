@@ -37,7 +37,7 @@ Tout Amour s’épanouit en joie... et… logiquement la Charité, « amour du S
 
 ### Résolution du jour
 
-Je choisis un acte de charité envers mon prochain que j’accomplis avec joie ! Je médite les mystères joyeux et je chante avec la Vierge Marie « Magnificat » attribuée à saint François d'Assise
+Je choisis un acte de charité envers mon prochain que j’accomplis avec joie ! Je médite les mystères joyeux et je chante avec la Vierge Marie « Magnificat »
 
 </section>
 

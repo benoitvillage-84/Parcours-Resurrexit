@@ -7,7 +7,7 @@ date_debut: ""
 audio_contemplation: ""
 prev_jour: "/jours/jour-7"
 next_jour: "/jours/jour-9"
-semaine_titre: "SEMAINE 2 : La Foi"
+semaine_titre: "SEMAINE 2 : Les Apparitions (suite) et la Foi"
 semaine_resume: "Après avoir contemplé les apparitions du Ressuscité, nous entrons dans la formation doctrinale sur la vertu de Foi. Le Père Sineux, à travers son Initiation à la Théologie de saint Thomas, nous enseigne le fondement de la Foi, son objet (le Credo), l'acte de foi, ses effets, et les dons d'intelligence et de science. La prière de la semaine est celle de saint Hilaire, « Les Voiles de la Foi »."
 semaine_priere: "Les Voiles de la Foi – Saint Hilaire"
 ---

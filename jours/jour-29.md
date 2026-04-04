@@ -7,7 +7,7 @@ date_debut: ""
 audio_contemplation: ""
 prev_jour: "/jours/jour-28"
 next_jour: "/jours/jour-30"
-semaine_titre: "SEMAINE 5 : Charité (suite)"
+semaine_titre: "SEMAINE 5 : La Charité (suite) et la Vierge Marie, Mère du Verbe incarné"
 semaine_resume: "La Miséricorde, la Bienfaisance, les vices opposés à la Charité (haine, tiédeur, jalousie, discorde), les préceptes de la Charité et le don de Sagesse couronnent la formation doctrinale du Père Sineux."
 semaine_priere: "« Sainte Marie, Mère de Dieu », père Léonce de Grandmaison, jésuite"
 ---

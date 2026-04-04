@@ -7,7 +7,7 @@ date_debut: ""
 audio_contemplation: ""
 prev_jour: "/jours/jour-42"
 next_jour: "/jours/jour-44"
-semaine_titre: "SEMAINE 7 : L'Ascension"
+semaine_titre: "SEMAINE 7 : La Mission du Saint-Esprit"
 semaine_resume: "Semaine centrée sur le mystère de l'Ascension. Dom Marmion nous guide dans la contemplation de la glorification suprême du Christ et de son action dans l'âme des fidèles."
 semaine_priere: "Prière à Notre-Dame du Sacerdoce"
 ---
