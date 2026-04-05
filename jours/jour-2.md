@@ -4,7 +4,7 @@ title: "la Vie nouvelle par le Baptême"
 jour: 2
 date_liturgique: "Lundi 6 avril"
 date_debut: ""
-audio_contemplation: ""
+audio_contemplation: "https://api.soundcloud.com/tracks/2297060060"
 prev_jour: "/jours/jour-1"
 next_jour: "/jours/jour-3"
 ---
