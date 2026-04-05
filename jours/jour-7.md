@@ -45,7 +45,7 @@ Je vais essayer d’aller à la messe aujourd’hui ou bien de me préparer à c
 
 <section class="section-priere" markdown="1">
 
-### Prière : ACTE D’AMOUR du saint Curé d’Ars (XIX ème siècle)
+### Prière : Acte d’Amour du saint Curé d’Ars (XIXe siècle)
 
 Je vous aime, ô mon Dieu, et mon seul désir est de vous aimer jusqu’au dernier soupir de ma vie. Je vous aime, ô mon Dieu infiniment aimable, et j’aime mieux mourir en vous aimant que de vivre un seul instant sans vous aimer. Je vous aime, ô mon Dieu, et je ne désire le Ciel que pour avoir le bonheur de vous aimer parfaitement. Je vous aime, ô mon Dieu, et je n’appréhende l’enfer que parce qu’on n’y aura jamais la douce consolation de vous aimer. Ô mon Dieu, si ma langue ne peut dire à tout moment que je vous aime, du moins je veux que mon coeur vous le répète autant de fois que je respire. Ah ! Faites-moi la grâce de souffrir en vous aimant, de vous aimer en souffrant, et d’expirer un jour en vous aimant et en sentant que je vous aime. Et plus j’approche de ma fin, plus je vous conjure d’accroître mon amour et de le perfectionner. Amen.
 

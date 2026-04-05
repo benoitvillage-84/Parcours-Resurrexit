@@ -45,7 +45,7 @@ J’approfondis mon désir de cette vie avec Dieu et en Dieu et je continue ma m
 
 <section class="section-priere" markdown="1">
 
-### Prière : ACTE DE CONFIANCE de Saint Claude La Colombière
+### Prière : Acte de Confiance de Saint Claude La Colombière
 
 Mon Dieu, je suis si persuadé que vous veillez sur ceux qui espèrent en vous et qu’on ne peut manquer de rien quand on espère de vous toutes choses, que j’ai résolu de me décharger sur vous de toutes mes inquiétudes. Dans la paix je m’étends et m’endors aussitôt ; car c’est vous seul, Seigneur, qui, dans l’espérance, m’avez établi. Les hommes peuvent me dépouiller et des biens et de l’honneur ; les maladies peuvent m’ôter les forces et les moyens de vous servir ; je puis même perdre votre grâce par le péché ; mais jamais je ne perdrai mon espérance, car c’est vous seul, Seigneur, qui m’avez établi dans l’espérance. Seigneur, toute ma confiance, c’est ma confiance même ; rien ne peut m’effrayer tant que j’espérerai ; et je suis assuré d’espérer toujours, car j’espère de vous cette invariable espérance. J’espère que vous m’aimerez toujours et que je vous aimerai aussi sans relâche ; et je vous espère vous-même de vous-même, ô mon Créateur, pour le temps et pour l’éternité.
 

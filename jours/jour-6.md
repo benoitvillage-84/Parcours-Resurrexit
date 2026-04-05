@@ -45,7 +45,7 @@ Je prends le temps de me reposer, me ressourcer auprès de Jésus en prenant un 
 
 <section class="section-priere" markdown="1">
 
-### Prière : ACTE D’AMOUR du saint Curé d’Ars (XIXe siècle)
+### Prière : Acte d’Amour du saint Curé d’Ars (XIXe siècle)
 
 Je vous aime, ô mon Dieu, et mon seul désir est de vous aimer jusqu’au dernier soupir de ma vie. Je vous aime, ô mon Dieu infiniment aimable, et j’aime mieux mourir en vous aimant que de vivre un seul instant sans vous aimer.
 
