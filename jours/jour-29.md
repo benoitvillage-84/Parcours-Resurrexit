@@ -24,6 +24,8 @@ Voici comment nous avons reconnu l’amour : lui, Jésus, a donné sa vie pour n
 
 ### Temps de contemplation : Initiation à la Théologie de Saint Thomas, père Sineux. Les œuvres de miséricorde
 
+{% include soundcloud.html url=page.audio_contemplation %}
+
 En présence des malheureux, de ceux qui souffrent dans leur corps ou dans leur âme, la Charité compatissante se fait Miséricorde. L’étymologie à elle seule dit assez ses nuances spéciales et sa délicatesse : « Miseris cor dare », « donner son cœur aux malheureux ». Le cœur n’est pas seulement le meilleur de soi-même, mais quand il se donne il entraîne vraiment le don de toute la personne. Et, dans la circonstance, il n’est pas destiné aux amis, ni au prochain en général, mais aux malheureux, comme si leur souffrance leur conférait une sorte de priorité. Faut-il ajouter que là plus que partout ailleurs, la Charité ne saurait se contenter de sentiments intérieurs ni même de bonnes paroles. La pitié et les consolations verbales seraient presque plus cruelles que l’indifférence si elles ne passaient à l’action efficace. Là aussi, surtout, la Charité est désintéressée : le malheureux, par définition n’est pas en mesure de donner autant qu’il a reçu ; peut-être est-il « moralement » assez misérable pour ne pas reconnaître le bienfait ? Mais la Miséricorde est assez ingénieuse pour se dévouer sans se faire voir ; non contente d’oublier qu’elle donne, elle fait en sorte que l’autre oublie qu’il reçoit. Subvenir au malheureux sans l’humilier, sans en faire un débiteur, presque sans lui laisser croire qu’il est secouru… , c’est le grand art de la Miséricorde.
 
 </section>
