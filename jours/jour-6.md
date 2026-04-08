@@ -4,7 +4,7 @@ title: "La deuxième pêche miraculeuse"
 jour: 6
 date_liturgique: "Vendredi 10 avril"
 date_debut: ""
-audio_contemplation: ""
+audio_contemplation: "https://api.soundcloud.com/tracks/2298923192"
 prev_jour: "/jours/jour-5"
 next_jour: "/jours/jour-7"
 ---
