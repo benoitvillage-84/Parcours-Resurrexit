@@ -4,7 +4,7 @@ title: "Quel est le fondement de la Foi ?"
 jour: 10
 date_liturgique: "Mardi 14 avril"
 date_debut: ""
-audio_contemplation: ""
+audio_contemplation: "https://api.soundcloud.com/tracks/2302266647"
 prev_jour: "/jours/jour-9"
 next_jour: "/jours/jour-11"
 ---
