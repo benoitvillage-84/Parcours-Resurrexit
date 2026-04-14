@@ -4,7 +4,7 @@ title: "Quel est l’objet de la Foi ?"
 jour: 11
 date_liturgique: "Mercredi 15 avril"
 date_debut: ""
-audio_contemplation: ""
+audio_contemplation: "https://api.soundcloud.com/tracks/2302613483"
 prev_jour: "/jours/jour-10"
 next_jour: "/jours/jour-12"
 ---
