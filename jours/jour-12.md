@@ -4,7 +4,7 @@ title: "Comment mettons-nous notre Foi en acte?"
 jour: 12
 date_liturgique: "Jeudi 16 avril"
 date_debut: ""
-audio_contemplation: ""
+audio_contemplation: "https://api.soundcloud.com/tracks/2303205113"
 prev_jour: "/jours/jour-11"
 next_jour: "/jours/jour-13"
 ---
