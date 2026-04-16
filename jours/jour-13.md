@@ -4,7 +4,7 @@ title: "quels sont les effets de cette vertu de Foi"
 jour: 13
 date_liturgique: "Vendredi 17 avril"
 date_debut: ""
-audio_contemplation: ""
+audio_contemplation: "https://api.soundcloud.com/tracks/2303700533"
 prev_jour: "/jours/jour-12"
 next_jour: "/jours/jour-14"
 ---
