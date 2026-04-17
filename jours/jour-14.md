@@ -4,7 +4,7 @@ title: "Le don d’intelligence : Dieu est si infiniment bon qu’il essaie d�
 jour: 14
 date_liturgique: "Samedi 18 avril"
 date_debut: ""
-audio_contemplation: ""
+audio_contemplation: "https://api.soundcloud.com/tracks/2304494183"
 prev_jour: "/jours/jour-13"
 next_jour: "/jours/jour-15"
 ---
