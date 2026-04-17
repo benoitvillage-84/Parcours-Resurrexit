@@ -13,7 +13,7 @@ next_jour: "/jours/jour-28"
 
 ### Texte de l'Écriture Sainte Evangile selon St Matthieu XXII, 35- 40
 
-Et l’un d’entre eux, un docteur de la Loi, posa une question à Jésus pour le mettre à l’épreuve : « Maître, dans la Loi, quel est le grand commandement ? » Jésus lui répondit : « Tu aimeras le Seigneur ton Dieu de tout ton cœur, de toute ton âme et de tout ton esprit. Voilà le grand, le premier commandement. Et le second lui est semblable : Tu aimeras ton prochain comme toi- même. De ces deux commandements dépend toute la Loi, ainsi que les Prophètes. » La charité envers le prochain
+Et l’un d’entre eux, un docteur de la Loi, posa une question à Jésus pour le mettre à l’épreuve : « Maître, dans la Loi, quel est le grand commandement ? » Jésus lui répondit : « Tu aimeras le Seigneur ton Dieu de tout ton cœur, de toute ton âme et de tout ton esprit. Voilà le grand, le premier commandement. Et le second lui est semblable : Tu aimeras ton prochain comme toi- même. De ces deux commandements dépend toute la Loi, ainsi que les Prophètes. »
 
 </section>
 

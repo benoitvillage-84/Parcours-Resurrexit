@@ -13,7 +13,7 @@ next_jour: "/jours/jour-11"
 
 ### Texte de l'Écriture Sainte – Evangile selon St Luc 10, 20-24
 
-Au même moment, il tressaillit de joie par l'Esprit-Saint, et il dit : " Je vous bénis, Père, Seigneur du ciel et de la terre, de ce que vous avez caché ces choses aux sages et aux prudents, et les avez révélées aux simples. Oui, Père, car tel fut votre bon plaisir. Toutes choses m'ont été remises pas mon Père ; et personne ne sait ce qu'est le Fils, si ce n'est le Père, ni ce qu'est le Père, si ce n'est le Fils, et celui à qui le Fils aura bien voulu le révéler. " Et se tournant vers les disciples, il leur dit en particulier : " Heureux les yeux qui voient ce que vous voyez ! Car, je vous le dis, beaucoup de prophètes et de rois ont voulu voir ce que vous, vous voyez, et ne l'ont pas vu, entendre ce que vous entendez, et ne l'ont pas entendu. " Le fondement de la Foi :
+Au même moment, il tressaillit de joie par l'Esprit-Saint, et il dit : " Je vous bénis, Père, Seigneur du ciel et de la terre, de ce que vous avez caché ces choses aux sages et aux prudents, et les avez révélées aux simples. Oui, Père, car tel fut votre bon plaisir. Toutes choses m'ont été remises pas mon Père ; et personne ne sait ce qu'est le Fils, si ce n'est le Père, ni ce qu'est le Père, si ce n'est le Fils, et celui à qui le Fils aura bien voulu le révéler. " Et se tournant vers les disciples, il leur dit en particulier : " Heureux les yeux qui voient ce que vous voyez ! Car, je vous le dis, beaucoup de prophètes et de rois ont voulu voir ce que vous, vous voyez, et ne l'ont pas vu, entendre ce que vous entendez, et ne l'ont pas entendu. "
 
 </section>
 

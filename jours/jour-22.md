@@ -16,7 +16,7 @@ semaine_priere: "Prière pour la paix, attribuée à saint François d'Assise"
 
 ### Texte de l'Écriture Sainte - Ecclésiastique, 1-11-16
 
-La crainte du Seigneur est gloire et fierté, gaîté et couronne d’allégresse. La crainte du Seigneur est un don qui vient du Seigneur ; de fait, elle établit sur les chemins de l’amour. Pour qui craint le Seigneur, tout finira bien, au jour de sa mort il sera béni. Le principe de la sagesse c’est de craindre le Seigneur ; et pour les fidèles, elle est créée avec eux dans le sein. Parmi les hommes, elle s’est fait un nid, fondation éternelle, et à leur race elle s’attachera fidèlement. La plénitude de la sagesse c’est de craindre le Seigneur ; elle les enivre de ses fruits… ; Le don de la Crainte :
+La crainte du Seigneur est gloire et fierté, gaîté et couronne d’allégresse. La crainte du Seigneur est un don qui vient du Seigneur ; de fait, elle établit sur les chemins de l’amour. Pour qui craint le Seigneur, tout finira bien, au jour de sa mort il sera béni. Le principe de la sagesse c’est de craindre le Seigneur ; et pour les fidèles, elle est créée avec eux dans le sein. Parmi les hommes, elle s’est fait un nid, fondation éternelle, et à leur race elle s’attachera fidèlement. La plénitude de la sagesse c’est de craindre le Seigneur ; elle les enivre de ses fruits… ;
 
 </section>
 
