@@ -13,13 +13,13 @@ next_jour: "/jours/jour-18"
 
 ### Texte de l'Écriture Sainte – Evangile selon Saint Jean 3, 16-21
 
-Car Dieu a tellement aimé le monde qu’il a donné son Fils unique, afin que quiconque croit en lui ne se perde pas, mais obtienne la vie éternelle. Car Dieu a envoyé son Fils dans le monde, non pas pour juger le monde, mais pour que, par lui, le monde soit sauvé. Celui qui croit en lui échappe au Jugement ; celui qui ne croit pas est déjà jugé, du fait qu’il n’a pas cru au nom du Fils unique de Dieu. Et le Jugement, le voici : la lumière est venue dans le monde, et les hommes ont préféré les ténèbres à la lumière, parce que leurs œuvres étaient mauvaises. Celui qui fait le mal déteste la lumière : il ne vient pas à la lumière, de peur que ses œuvres ne soient dénoncées ; mais celui qui fait la vérité vient à la lumière, pour qu’il soit manifeste que ses œuvres ont été accomplies en union avec Dieu. » Les préceptes de la Foi :
+Car Dieu a tellement aimé le monde qu’il a donné son Fils unique, afin que quiconque croit en lui ne se perde pas, mais obtienne la vie éternelle. Car Dieu a envoyé son Fils dans le monde, non pas pour juger le monde, mais pour que, par lui, le monde soit sauvé. Celui qui croit en lui échappe au Jugement ; celui qui ne croit pas est déjà jugé, du fait qu’il n’a pas cru au nom du Fils unique de Dieu. Et le Jugement, le voici : la lumière est venue dans le monde, et les hommes ont préféré les ténèbres à la lumière, parce que leurs œuvres étaient mauvaises. Celui qui fait le mal déteste la lumière : il ne vient pas à la lumière, de peur que ses œuvres ne soient dénoncées ; mais celui qui fait la vérité vient à la lumière, pour qu’il soit manifeste que ses œuvres ont été accomplies en union avec Dieu. »
 
 </section>
 
 <section class="section-contemplation" markdown="1">
 
-### Temps de contemplation : Initiation à la Théologie de St Thomas, père Sineux
+### Temps de contemplation : Initiation à la Théologie de St Thomas, père Sineux. Les préceptes de la Foi
 
 {% include soundcloud.html url=page.audio_contemplation %}
 
